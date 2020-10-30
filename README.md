@@ -24,14 +24,13 @@ No prerequisites are needed, you can check out the demo [here!](https://dcc723-a
 
 ## Authors
 
-* **@nbcl** - *Flask Implementation, MongoDB Connection, GET Requests* 
+* **@nbcl**
 
-* **@sebaav12** - *Flask Implementation, MongoDB Connection, GET Requests*  
+* **@sebaav12** 
 
-* **@FranciscoCabello** - *POST Requests*  
+* **@FranciscoCabello** 
 
-* **@Jprampad** - *POST Requests*  
-
+* **@Jprampad** 
 
 
 ## License
